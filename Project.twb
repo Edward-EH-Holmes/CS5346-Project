@@ -1189,7 +1189,7 @@
       </viewpoint>
       <simple-id uuid='{83177F69-81E3-4C5D-BF44-36A24198EC48}' />
     </window>
-    <window class='worksheet' maximized='true' name='工作表 1'>
+    <window class='worksheet' name='工作表 1'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1315,7 +1315,7 @@
       </viewpoint>
       <simple-id uuid='{9B3BB3A8-296E-4683-800E-0668D76E545F}' />
     </window>
-    <window class='worksheet' name='工作表 4'>
+    <window class='worksheet' maximized='true' name='工作表 4'>
       <cards>
         <edge name='left'>
           <strip size='160'>

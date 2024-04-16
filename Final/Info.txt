@@ -1,0 +1,7 @@
+The horizontal axis represents year and month. The vertical axis on the left represents the number of "Children" for per month, corresponding to the bar chart. The vertical axis on the right represents the number of “Required Car Parking Spaces”, corresponding to the line chart.
+
+Based on the first set of chart, a "hotel" filter was added. Different tables can be obtained by checking different filter contents.
+
+The horizontal axis represents year and month. The vertical axis represents the number of "Children" for per month. The “Page” feature in Tableau was used, so that the slider could be used to view graphs of children versus time for different types of meals.
+
+Based on the third set of chart, a "hotel" filter was added. Different tables can be obtained by checking different filter contents.
